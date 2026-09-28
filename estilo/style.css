@@ -37,7 +37,6 @@ body {
 main {
     margin: auto;
     background-color: #949292;
-    height: 100vh;
     max-width: 800px;
     padding: 60px 40px;
 }
@@ -65,6 +64,12 @@ div#htmlcss {
 .linha2{
     display: flex;
 }
+.linha3 {
+    display: flex;
+}
+.linha3 div{
+    width: 250px;
+} 
 .box{
     width: 100%;
 }
